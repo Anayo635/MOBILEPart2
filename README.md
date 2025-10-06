@@ -1,7 +1,11 @@
 STUDENT NUMBER : ST10488397
+
 STUDENT NAME : ANAYO MNYANDA 
+
 youtubelink : https://youtu.be/TJYjbUv5Ahg?si=WYgH0ktA5z4N6aik 
-gitHub link : 
+
+gitHub link : https://github.com/Anayo635/MOBILEPart2.git 
+
 
 # Christoffel's Kitchen - Mobile Menu App
 
